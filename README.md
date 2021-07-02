@@ -1,9 +1,9 @@
 # 💫 Sobre Mim 
 
-> 🕵🏻️ Quem sou eu?
-Miguel Avila de Oliveira 
-Estudante do CTISM 
-Curso Técnico em Informática
+> 🕵🏻️ Quem sou eu? <br />
+Miguel Avila de Oliveira <br />
+Estudante do CTISM <br />
+Curso Técnico em Informática <br />
 >
 
 > 👾 Gostos: 
