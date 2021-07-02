@@ -1,13 +1,23 @@
-# 💫 Sobre Mim \
+# 💫 Sobre Mim <br />
 
-> 🕵🏻️ Quem sou eu \?
-Miguel Avila de Oliveira \ Estudante do CTISM \ Curso Técnico em Informática
+> 🕵🏻️ Quem sou eu? <br />
+Miguel Avila de Oliveira <br />
+Estudante do CTISM <br />
+Curso Técnico em Informática <br />
 >
 
-> 👾 Gostos: \
-Formula 1 \ Jogos de Tiro (PC)
+> 👾 Gostos: <br />
+Formula 1 <br />
+Jogos de Tiro (PC) <br />
 >
 
-> 📭 Onde me encontrar? \
-Discord: Avila#1121 \ Twitter: @avilar6s 
+> 🥳 Torcida: <br />
+Internacional <br />
+Red Bull Racing <br />
+FaZe Clan <br />
+>
+
+> 📭 Onde me encontrar? <br />
+Discord: Avila#1121 <br />
+Twitter: @avilar6s <br />
 >
