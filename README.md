@@ -14,7 +14,7 @@ Jogos de Tiro (PC) <br />
 > 🥳 **Torcida:** <br />
 Internacional <br />
 Red Bull Racing <br />
-FaZe Clan <br />
+FaZe Clan<br />
 >>
 
 > 📭 **Onde me encontrar?** <br />
