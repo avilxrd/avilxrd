@@ -15,9 +15,8 @@ Jogos de Tiro (PC) <br />
 Internacional <br />
 Red Bull Racing <br />
 FaZe Clan <br />
->
+>>
 
 > 📭 **Onde me encontrar?** <br />
 Discord: Avila#1121 <br />
 Twitter: [@avilxrd](https://twitter.com/avilxrd) <br />
->
