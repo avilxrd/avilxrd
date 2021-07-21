@@ -1,4 +1,4 @@
-# 💫 Sobre Mim <br />
+ # 💫 Sobre Mim <br />
 
 > 🕵🏻️ **Quem sou eu?** <br />
 Miguel Avila de Oliveira <br />
@@ -19,5 +19,5 @@ FaZe Clan <br />
 
 > 📭 **Onde me encontrar?** <br />
 Discord: Avila#1121 <br />
-Twitter: @avilar6s <br />
+Twitter: [@avilxrd](https://twitter.com/avilxrd) <br />
 >
