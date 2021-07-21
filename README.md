@@ -24,5 +24,5 @@ Riot: Avilxrd#CBS
 
 > 📭 **Onde me encontrar?** <br />
 Discord: Avila#1121  <br />
-Twitter: [@avilxrd](https://twitter.com/avilxrd)<br />
+Twitter: [@avilxrd](https://twitter.com/avilxrd) <br />
 >
