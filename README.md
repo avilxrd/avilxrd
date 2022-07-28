@@ -14,4 +14,6 @@ class Contact:
 	mail = "miguelaviladeoliveira@gmail.com"
 	discord = {"Avila": "#1121"}
 ```
+<img src="https://64.media.tumblr.com/7ca99676de0858b4d5c264b59b81032b/tumblr_msbb4wTSvK1rm1u90o1_400.gif" height="50" width="50">
+
 *Ainda tô muito longe do fim...* 
