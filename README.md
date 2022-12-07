@@ -10,7 +10,7 @@ class AboutMe:
 	
 class Contact:
 	twitter = "@avilxrd"
-	instagram = "@miguel_avla"
+	instagram = "@avila.dex"
 	mail = "miguelaviladeoliveira@gmail.com"
 	discord = {"Avila": "#1121"}
 ```
