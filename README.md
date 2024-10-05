@@ -1,19 +1,32 @@
-# Hello, i'm Avilxrd!  <img src="https://c.tenor.com/a2RG0AwgWnoAAAAi/popcat-pogcat.gif" height=50px width="50">
-*Student at* [*Colégio Técnico Industrial de Santa Maria*](https://www.ufsm.br/unidades-universitarias/ctism/)🎓
 
-### More about me...
-```python
-class AboutMe:
-	birthay = (16, 08)
-	pronouns = ["he", "him"]
-	codes = ["Python", "HTML", "CSS", "JS", "Java"]
-	
-class Contact:
-	twitter = "@avilxrd"
-	instagram = "@avila.dex"
-	mail = "miguelaviladeoliveira@gmail.com"
-	discord = {"Avila": "#1121"}
-```
-<img src="https://64.media.tumblr.com/7ca99676de0858b4d5c264b59b81032b/tumblr_msbb4wTSvK1rm1u90o1_400.gif" height="50" width="50">
+# Miguel Avila - @avilxrd
+*Técnico em Informática para Internet  pelo* [*Colégio Técnico Industrial de Santa Maria*](https://www.ufsm.br/unidades-universitarias/ctism/) e estudante do curso de Sistemas de Informação na [*Universidade Federal de Santa Maria*](https://www.ufsm.br/). 🎓🎓
 
-*Ainda tô muito longe do fim...* 
+
+<h3 align="left">Linguagens e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=avilxrd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avilxrd&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
